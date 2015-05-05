@@ -1,9 +1,7 @@
 module Anchor.Package.Types where
 
-import           Control.Applicative
-import           Control.Monad.IO.Class
 import           Control.Monad.Reader
-import           Data.Set               (Set)
+import           Data.Set             (Set)
 
 data CabalInfo = CabalInfo
     { name              :: String

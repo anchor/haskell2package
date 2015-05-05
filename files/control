@@ -3,7 +3,7 @@ Version: VERSION()-BUILDNO()
 Section: development
 Priority: optional
 Architecture: all
-Depends: DEB_DEPS() libgmp10, libz1
+Depends: DEB_DEPS()
 Maintainer: Anchor Engineering <engineering@lists.anchor.net.au>
 Description:
 DEB_DESC()

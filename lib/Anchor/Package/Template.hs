@@ -5,7 +5,6 @@ module Anchor.Package.Template where
 import           Control.Arrow
 import           Control.Monad.IO.Class
 import           Control.Monad.Reader
-import           Data.List
 import           Data.Maybe
 import           Data.Monoid
 import qualified Data.Set               as S
